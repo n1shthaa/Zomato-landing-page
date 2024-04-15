@@ -20,4 +20,4 @@ Get App Section: Encourages users to download the Zomato app with options for em
 
 Footer: Includes sections with information about Zomato, Zomaverse, options for restaurants and enterprises, and social links. It also contains links for privacy, security, terms, and a disclaimer.
 
-Designed by: Nishtha and Bhavay
+Designed by: Nishtha and Bhavay (https://github.com/bh4vay)
